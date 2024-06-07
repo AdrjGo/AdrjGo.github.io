@@ -2,7 +2,6 @@
 
 ![Imagen de perfíl](https://avatars.githubusercontent.com/u/161991557?s=96&v=4 "GitHub")
 
-___
 ## Datos Personales
 **Fecha de nacimiento:** 18 de enero de 2003 - Cochabamba  
 **Nacionalidad:** Boliviana  
@@ -10,7 +9,6 @@ ___
 **Número:** +591 69451373  
 **LinkedIn:** [Adrian Gomez Catacora](https://www.linkedin.com/in/adrian-gomez-catacora-b604792b8/)  
 **GitHub:** [AdrjGo](https://github.com/AdrjGo/)  
-___
 
 ## Estudiante de Ingeniería de Sistemas
 Soy un estudiante en formación apasionado por la tecnología, con el objetivo de adquirir conocimientos y aprender de las experiencias académicas y oportunidades.
