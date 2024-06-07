@@ -1,14 +1,14 @@
 # CURRICULUM VITAE
 
-![picture alt](https://scontent.cdninstagram.com/v/t51.2885-19/357660807_3546079635610044_7274478140486708961_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=UVynXSBjwV4Q7kNvgGLbSzo&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYBXCVOMNHDpi2xlTgw4hK7py7ARgF_rCGU53GgpTlyyaQ&oe=66681B5D&_nc_sid=10d13b "Imagen de perfíl")
-
+![Imagen de perfíl](https://scontent.cdninstagram.com/v/t51.2885-19/357660807_3546079635610044_7274478140486708961_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=UVynXSBjwV4Q7kNvgGLbSzo&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYBXCVOMNHDpi2xlTgw4hK7py7ARgF_rCGU53GgpTlyyaQ&oe=66681B5D&_nc_sid=10d13b "Instagram")
+someone@email.com
 ## Datos personales
-Fecha de nacimiento: 18 de enero de 2003 - Cochabamba
-Nacionalidad: Boliviana
-Email: gcadrian@gmail.com
-Número: +591 69451373
-LinkedIn: https://www.linkedin.com/in/adrian-gomez-catacora-b604792b8/
-GitHub: https://github.com/AdrjGo/
+Fecha de nacimiento: 18 de enero de 2003 - Cochabamba  
+Nacionalidad: Boliviana  
+Email: gcadrian@gmail.com  
+Número: +591 69451373  
+LinkedIn: https://www.linkedin.com/in/adrian-gomez-catacora-b604792b8/  
+GitHub: https://github.com/AdrjGo/  
 
 ## Estudiante de Ingenieria de sistemas  
 Estudiante en formación que busca adquirir conociemientos y aprender de las experiencias académicas y oportunidades. 
@@ -18,13 +18,13 @@ Estudiante en formación que busca adquirir conociemientos y aprender de las exp
 * 2021 - 2025 -- Licenciatura en ingenieria de sistemas -- Universidad UCATEC
 
 ### Cursos y más
-2020 -- Curso de introducción al desarrollo web: HTML y CSS (1/2) -- Google
-2020 -- Curso de introducción al desarrollo web: HTML y CSS (2/2) -- Google
-2023 -- Hackathon Comteco -- Comteco
-2024 -- JavaScript Essentials 1 (JSE) -- CISCO
-2024 -- Curso a fondo de GitHubCurso a fondo de GitHub -- Código Facilito
-2024 -- Curso profesional de GitCurso profesional de Git -- Código Facilito
-2024 -- Curso profesional de ReactCurso profesional de React -- Código Facilito
+2020 -- Curso de introducción al desarrollo web: HTML y CSS (1/2) -- Google  
+2020 -- Curso de introducción al desarrollo web: HTML y CSS (2/2) -- Google  
+2023 -- Hackathon Comteco -- Comteco  
+2024 -- JavaScript Essentials 1 (JSE) -- CISCO  
+2024 -- Curso a fondo de GitHubCurso a fondo de GitHub -- Código Facilito  
+2024 -- Curso profesional de GitCurso profesional de Git -- Código Facilito  
+2024 -- Curso profesional de ReactCurso profesional de React -- Código Facilito  
 
 ### Projectos
 * Sistema web de control odontológico -- LCV Dental (En proceso)
