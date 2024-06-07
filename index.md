@@ -1,14 +1,14 @@
 # CURRICULUM VITAE
 
-![Imagen de perfíl](https://scontent.cdninstagram.com/v/t51.2885-19/357660807_3546079635610044_7274478140486708961_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_ohc=UVynXSBjwV4Q7kNvgGLbSzo&edm=APs17CUBAAAA&ccb=7-5&oh=00_AYBXCVOMNHDpi2xlTgw4hK7py7ARgF_rCGU53GgpTlyyaQ&oe=66681B5D&_nc_sid=10d13b "Instagram")
-someone@email.com
+![Imagen de perfíl](https://avatars.githubusercontent.com/u/161991557?s=96&v=4 "GitHub")
+
 ## Datos personales
 Fecha de nacimiento: 18 de enero de 2003 - Cochabamba  
 Nacionalidad: Boliviana  
 Email: gcadrian@gmail.com  
 Número: +591 69451373  
-LinkedIn: https://www.linkedin.com/in/adrian-gomez-catacora-b604792b8/  
-GitHub: https://github.com/AdrjGo/  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/adrian-gomez-catacora-b604792b8/)  
+GitHub: [GitHub](https://github.com/AdrjGo/)  
 
 ## Estudiante de Ingenieria de sistemas  
 Estudiante en formación que busca adquirir conociemientos y aprender de las experiencias académicas y oportunidades. 
@@ -30,7 +30,7 @@ Estudiante en formación que busca adquirir conociemientos y aprender de las exp
 * Sistema web de control odontológico -- LCV Dental (En proceso)
 * Página web para un restaurante -- Marraqueta Eco Sandwich
 * EjerciciosLogicaJS -- GitHub
-* Aplicación web de proyectos para estudiantes https://start-project.norvicsoftware.com/ 
+* Aplicación web de proyectos para estudiantes [StarProject](https://start-project.norvicsoftware.com/)   
 
 ### Competencias/Habilidades
 * HTML5
