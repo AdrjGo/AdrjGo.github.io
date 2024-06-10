@@ -29,7 +29,6 @@ Soy un estudiante en formación apasionado por la tecnología, con el objetivo d
 ### 💼 Proyectos
 - **Sistema Web de Control Odontológico** -- LCV Dental (En proceso)
 - **Página Web para un Restaurante** -- Marraqueta Eco Sandwich
-- **Ejercicios de Lógica en JavaScript** -- [EjerciciosLogicaJS](https://github.com/AdrjGo/EjerciciosLogicaJS)
 - **Aplicación Web de Proyectos para Estudiantes** -- [StarProject](https://start-project.norvicsoftware.com/)   
 
 ### 🚀 Competencias / Habilidades
@@ -37,3 +36,5 @@ Soy un estudiante en formación apasionado por la tecnología, con el objetivo d
 - **CSS3**
 - **JavaScript**
 - **ReactJS**
+- **Git**
+- **GitHub**
